@@ -1,1 +1,1 @@
-# Estudo-da-Din-mica-do-Mercado-Financeiro-Atrav-s-de-Geometria-Diferencial
+# Estudo da Dinâmica do Mercado Financeiro Atravês de Geometria Diferencial
